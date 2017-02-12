@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "744235793752",
+    "firebase_url": "https://fir-tutorial-bf76f.firebaseio.com",
+    "project_id": "fir-tutorial-bf76f",
+    "storage_bucket": "fir-tutorial-bf76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744235793752:android:c3a684b7cef53f69",
+        "android_client_info": {
+          "package_name": "com.example.vinayak.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744235793752-de3k3ge856mbr117rvkre3lknkv2cgi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinayak.firebasetutorial",
+            "certificate_hash": "0004924253D59A33C17C25736669DEDDAAE58B29"
+          }
+        },
+        {
+          "client_id": "744235793752-f9vkv4n28ndn2kp2e94k9hnq57kfq3el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTIi9wcOyDtFMXjbWXNBJQ6MAMFa7ta8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744235793752-f9vkv4n28ndn2kp2e94k9hnq57kfq3el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744235793752:android:5a43b155a513cf56",
+        "android_client_info": {
+          "package_name": "com.example.vinayak.firebase_basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744235793752-q0sgb97a9cbv47s8m63gs6f4cpnjc6nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinayak.firebase_basic",
+            "certificate_hash": "0004924253D59A33C17C25736669DEDDAAE58B29"
+          }
+        },
+        {
+          "client_id": "744235793752-f9vkv4n28ndn2kp2e94k9hnq57kfq3el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTIi9wcOyDtFMXjbWXNBJQ6MAMFa7ta8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744235793752-f9vkv4n28ndn2kp2e94k9hnq57kfq3el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
